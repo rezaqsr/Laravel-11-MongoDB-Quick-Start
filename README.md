@@ -29,7 +29,7 @@ Before you start, ensure you have the following:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/reza-qsr/Laravel-mongoDB.git
+git clone https://github.com/reza-qsr/Laravel-MongoDB-Quikstart.git
 cd Laravel-mongoDB
 ```
 ### Step 2: composer install
